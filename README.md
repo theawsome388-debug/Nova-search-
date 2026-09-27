@@ -1,2 +1,1 @@
-# Nova-search-
-Nova ai search 
+# Zentro
